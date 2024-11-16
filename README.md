@@ -28,10 +28,14 @@ To simulate the behavior of a basic firewall by creating a Python script that ev
 </div>
 
 #### *2. Test the Function:*
-<img width="172" alt="image" src="https://github.com/user-attachments/assets/c0cce8ed-fd2a-42a8-a943-a4aa7c08e3f4">
-
 
 - Call the firewall function with test cases to verify its behavior
+<div>
+  <img width="172" alt="image" src="https://github.com/user-attachments/assets/c0cce8ed-fd2a-42a8-a943-a4aa7c08e3f4">
+</div>
+- Test Results
+<img width="98" alt="image" src="https://github.com/user-attachments/assets/4aeae2e2-2ce2-482b-b946-49ede78465f7">
+
 
 
 
