@@ -34,7 +34,9 @@ To simulate the behavior of a basic firewall by creating a Python script that ev
   <img width="172" alt="image" src="https://github.com/user-attachments/assets/c0cce8ed-fd2a-42a8-a943-a4aa7c08e3f4">
 </div>
 
-- Test Results
+#### *3. Test Results*
+
+- Testing the script to see if it works and respective outputs
 <img width="98" alt="image" src="https://github.com/user-attachments/assets/4aeae2e2-2ce2-482b-b946-49ede78465f7">
 
 
