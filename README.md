@@ -29,4 +29,8 @@ To simulate the behavior of a basic firewall by creating a Python script that ev
 
 - Provide different test cases to verify the logic of the firewall.
 
+*4. Run the Code:*
+
+- Execute the script to see the firewall's behavior
+
 
