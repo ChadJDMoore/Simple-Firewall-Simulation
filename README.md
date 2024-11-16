@@ -15,24 +15,22 @@ To simulate the behavior of a basic firewall by creating a Python script that ev
 
 
 ## Steps
-#### *1. Define the Rules:*
+#### *1. Define the firewall Function:*
 
-- Create a list of allowed IP addresses.
-- Define a list of blocked ports to restrict certain services.
-<img width="293" alt="image" src="https://github.com/user-attachments/assets/318ae3c5-2229-48e3-90a9-c27760d982ac">
+- Write a Python function named firewall that takes two inputs: an ip (IP address) and a port (port number).
+- Inside the function, define the following rules:
+  - allowed_ips: A list of permitted IP addresses
+  - blocked_ports: A list of restricted ports
+  - Use an if-else statement to check whether the provided ip is in allowed_ips and the port is not in blocked_ports
+  - Print "Allowed" if both conditions are met; otherwise, print "Blocked"
 
 
-#### *2. Create a Function:*
 
-- Write the *firewall* function, which accepts two parameters: *ip* and *port*.
-- Check if the IP is in the allowed list and if the port is not in the blocked list.
+#### *2. Test the Function:*
 
-#### *3. Test the Function:*
+- Call the firewall function with test cases to verify its behavior
 
-- Provide different test cases to verify the logic of the firewall.
 
-#### *4. Run the Code:*
 
-- Execute the script to see the firewall's behavior
 
 
