@@ -24,3 +24,9 @@ To simulate the behavior of a basic firewall by creating a Python script that ev
 
 - Write the *firewall* function, which accepts two parameters: *ip* and *port*.
 - Check if the IP is in the allowed list and if the port is not in the blocked list.
+
+*3. Test the Function:*
+
+- Provide different test cases to verify the logic of the firewall.
+
+
