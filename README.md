@@ -23,7 +23,7 @@ To simulate the behavior of a basic firewall by creating a Python script that ev
   - **blocked_ports:** A list of restricted ports
   - Use an **if-else** statement to check whether the provided **ip** is in **allowed_ips** and the **port** is not in **blocked_ports**
   - Print **"Allowed"** if both conditions are met; otherwise, print **"Blocked"**
-
+  <img width="322" alt="image" src="https://github.com/user-attachments/assets/49dabaa5-0d95-49b9-8d65-8b07eca21426">
 
 
 #### *2. Test the Function:*
