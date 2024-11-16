@@ -15,7 +15,7 @@ To simulate the behavior of a basic firewall by creating a Python script that ev
 
 
 ## Steps
-1. Define the Rules:
+*1. Define the Rules:*
 
 - Create a list of allowed IP addresses.
 - Define a list of blocked ports to restrict certain services.
