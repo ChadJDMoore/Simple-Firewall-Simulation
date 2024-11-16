@@ -12,13 +12,10 @@ To simulate the behavior of a basic firewall by creating a Python script that ev
 
 - Programming Language: Python 3.x
 - Text Editor: VS Code
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Define the Rules:
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+- Create a list of allowed IP addresses.
+- Define a list of blocked ports to restrict certain services.
